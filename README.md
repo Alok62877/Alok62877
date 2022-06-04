@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlokRanjan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Working on Molecular Dynamics Simulations
 - 💞️ I’m looking to collaborate on my open projects
 - 📫 Mail me at alok62877@gmail.com
 
